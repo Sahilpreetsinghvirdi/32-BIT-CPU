@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "CY74FC") (type "KiCad") (uri "C:/Users/ksahi/Documents/Projects/32-BIT CPU/KiCad Files/extra libraries, footprints, 3d and symbols/ul_CY74FCT825ATSOC/KiCADv6/CY74FC.pretty") (options "") (descr ""))
+)
